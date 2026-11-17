@@ -9,3 +9,4 @@ streamlit
 #azure-ai-vision
 #azure-core
 azure
+azure.ai
