@@ -5,6 +5,6 @@ pandas
 numpy
 requests
 streamlit
-python-dotenv
-azure-ai-vision
-azure-core
+#python-dotenv
+#azure-ai-vision
+#azure-core
